@@ -44,7 +44,7 @@ It highlights my experience in backend and frontend technologies, along with fea
 ### 1. Conference Room Booking System  
 - Built with Spring Boot, Hibernate, Thymeleaf, MySQL  
 - Real-time room booking with role-based access  
-- [🔗 View Code](https://github.com/SanapMahesh/Conference-Room-Booking-System)  
+- [🔗 View Code](https://github.com/SanapMahesh/Conference_Room_Booking_SpringBoot)  
 
 ### 2. Player Management System  
 - Core Java + JDBC application  
